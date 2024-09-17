@@ -20,7 +20,7 @@ Antes de ejecutar el juego, asegúrate de tener instalados los siguientes progra
   ```bash
   npm install
   ```
-###Ejecutar el Juego
+## Ejecutar el Juego
 
 Para iniciar el servidor de desarrollo y ejecutar el juego:
   ```bash
