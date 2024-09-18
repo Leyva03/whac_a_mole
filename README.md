@@ -1,29 +1,29 @@
 # Whac-a-Mole
-Este proyecto es una implementación sencilla del clásico juego de "mata topos" usando Vue.js. El objetivo del juego es hacer clic en los topos que aparecen de forma aleatoria antes de que desaparezcan.
+This project is a simple implementation of the classic "whac-a-mole" game using Vue.js. The objective of the game is to click on the moles that appear randomly before they disappear.
 
-## Requisitos
+## Requirements
 
-Antes de ejecutar el juego, asegúrate de tener instalados los siguientes programas en tu sistema:
-- [Node.js](https://nodejs.org/es/) (se recomienda la versión 14 o superior).
-- npm (se incluye con Node.js).
+Before running the game, make sure you have the following programs installed on your system:
+- [Node.js](https://nodejs.org/es/) (version 14 or higher is recommended).
+- npm (included with Node.js).
 - [Vue.js](https://vuejs.org/).
 
-## Instalación
+## Installation
 
-1. Clona el repositorio en tu máquina local:
+1. Clone the repository to your local machine:
   ```bash
   git clone https://github.com/Leyva03/whac_a_mole.git
   cd whac_a_mole
   ```
    
-2. Instala las dependencias del proyecto:
+2. Install the project dependencies:
   ```bash
   npm install
   ```
-## Ejecutar el Juego
+## Running the Game
 
-Para iniciar el servidor de desarrollo y ejecutar el juego:
+To start the development server and run the game:
   ```bash
   npm run dev
   ```
-Una vez que el servidor esté en funcionamiento, abre tu navegador y navega a http://localhost:3000 (o al puerto que te indique el servidor) para jugar.
+Once the server is up and running, open your browser and go to http://localhost:3000 (or the port indicated by the server) to play.
